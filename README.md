@@ -19,4 +19,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/brayden-uglione" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:brantisu5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="https://instagram.com/braydenuglione" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
