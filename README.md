@@ -11,7 +11,7 @@
 ### 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript,js,react,vite,nodejs,express,fastapi,tensorflow,sklearn,mysql,git,docker,latex" />
+<img src="https://skillicons.dev/icons?i=python,java,c,typescript,js,react,vite,nodejs,express,fastapi,tensorflow,sklearn,mysql,git,docker" />
 </p>
 
 ### 🌐 Connect with me
