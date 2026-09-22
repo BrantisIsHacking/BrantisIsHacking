@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brayden</h1>
 <h3 align="center">CS & Data Science student at Rutgers Honors College, building in ML, web, and AI-powered apps</h3>
 
-- 🎓 I'm the **Education & Mentorship Director @ USACS** (Rutgers' largest CS club) and on the board for **HackRU** (Largest hackathon in NJ)
-- 🌱 I'm currently learning **machine learning** through the **Break Through Tech AI** program (eCornell curriculum)
-- 👯 I'm looking to collaborate on **ML / data science projects and hackathon builds**
+- 🎓 **Education & Mentorship Director @ USACS** (Rutgers' largest CS club) and part of the **HackRU** team (Largest hackathon in NJ)
+- 🌱 Currently learning **machine learning** through the **Break Through Tech AI** program (eCornell curriculum)
+- 👯 Looking to collaborate on **ML / data science projects and hackathon builds**
 - 📫 How to reach me: **uglionebrayden@gmail.com**
 
 ---
