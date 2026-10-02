@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayden</h1>
-<h3 align="center">CS & Data Science student at Rutgers Honors College, building in ML, web, and AI-powered apps</h3>
+<h3 align="center">CS & Data Science student at Rutgers Honors College</h3>
 
 - 🎓 **Education & Mentorship Director @ USACS** (Rutgers' largest CS club) and part of the **HackRU** team (Largest hackathon in NJ)
 - 🌱 Currently learning **machine learning** through the **Break Through Tech AI** program (eCornell curriculum)
