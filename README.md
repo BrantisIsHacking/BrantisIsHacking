@@ -32,9 +32,8 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 <img src="https://skillicons.dev/icons?i=python,java,c,typescript,js,react,nodejs,express,fastapi,tensorflow,sklearn,mysql,postgres,docker,git" alt="Languages and tools" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BrantisIsHacking&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantisIsHacking&layout=compact&hide_border=true" alt="Top languages" height="165" />
+<img src="https://streak-stats.demolab.com/?user=BrantisIsHacking&hide_border=true" alt="GitHub contribution streak" />
 </p>
