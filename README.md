@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Brayden</h1>
-<h3 align="center">CS & Data Science student at Rutgers Honors College</h3>
+<h1 align="center">Hi, I'm Brayden Uglione 👋</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | CS + Data Science @ Rutgers Honors College</h3>
 
-- 🎓 **Education & Mentorship Director @ USACS** (Rutgers' largest CS club) and part of the **HackRU** team (Largest hackathon in NJ)
-- 🌱 Currently learning **machine learning** through the **Break Through Tech AI** program (eCornell curriculum)
-- 👯 Looking to collaborate on **ML / data science projects and hackathon builds**
-- 📫 How to reach me: **uglionebrayden@gmail.com**
-
----
-
-### 🛠 Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript,js,react,vite,nodejs,express,fastapi,tensorflow,sklearn,mysql,git,docker" />
+<p align="center">
+<a href="https://www.linkedin.com/in/brayden-uglione/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brayden--uglione-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:uglionebrayden@gmail.com"><img src="https://img.shields.io/badge/Email-uglionebrayden%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://devpost.com/brantisu5" target="_blank"><img src="https://img.shields.io/badge/Devpost-Projects-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
 </p>
 
-### 🌐 Connect with me
+## 🤖 About Me
+
+I'm a Computer Science and Data Science student at Rutgers Honors College (minors in Math and Statistics) working toward a career as a **Machine Learning Engineer**. I build applied AI systems, especially **retrieval-augmented generation (RAG)** and **LLM** pipelines, and I care about making them work reliably for the people who use them.
+
+- 🔭 **Now:** AI Studio Fellow with **Zayi**, building an agentic RAG system for R&D knowledge retrieval with ChromaDB and local LLMs
+- 🎓 **Break Through Tech AI/ML Fellow**, with Cornell University's Machine Learning Foundations certificate
+- ⚖️ **Head of Judging @ HackRU**, where I built the judging platform used for 100+ projects and 25+ judges
+- 🎯 **Looking for:** Summer 2027 Machine Learning / Software Engineering internships
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Zayi AI Studio: Agentic Knowledge System](https://github.com/BrantisIsHacking/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d) | Agentic RAG system for internal R&D knowledge retrieval | Python, ChromaDB, LLMs |
+| [debate-mate](https://github.com/BrantisIsHacking/debate-mate) | AI debate coach that detects 10+ logical fallacies with 85%+ accuracy | Next.js, TypeScript, Gemini, Snowflake |
+| [airbnb-price-classification](https://github.com/BrantisIsHacking/airbnb-price-classification) | Predicts high-priced NYC Airbnb listings, comparing logistic regression with a neural network | Python, scikit-learn, TensorFlow |
+| [vestibular-problems-detector](https://github.com/BrantisIsHacking/vestibular-problems-detector) | ML prototype that detects vestibular problems in concussion patients from eye-tracking data | Python, Jupyter |
+| [hackru-judging-platform](https://github.com/BrantisIsHacking/hackru-judging-platform) | Judging platform with automated judge assignment, live scoring and leaderboards | Next.js, TypeScript, Prisma |
+
+## 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://linkedin.com/in/brayden-uglione" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:brantisu5@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://instagram.com/braydenuglione" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=python,java,c,typescript,js,react,nodejs,express,fastapi,tensorflow,sklearn,mysql,postgres,docker,git" alt="Languages and tools" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BrantisIsHacking&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantisIsHacking&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
