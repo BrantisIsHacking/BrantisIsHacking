@@ -11,7 +11,7 @@
 
 I'm a Computer Science and Data Science student at Rutgers Honors College (minors in Math and Statistics) working toward a career as a **Machine Learning Engineer**. I build applied AI systems, especially **retrieval-augmented generation (RAG)** and **LLM** pipelines, and I care about making them work reliably for the people who use them.
 
-- 🏆 **NASA Space Apps NYC 2026:** won **Best Code & Technology** and **Best Use of Gemini** for [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026), a lunar south-pole landing site navigator
+- 🏆 **NASA Space Apps NYC 2026:** won **Best Use of Code & Technology** and **Best Use of Gemini** for [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026), a lunar south-pole landing site navigator
 - 🔭 **Now:** AI Studio Fellow with **Zayi**, building an agentic RAG system for R&D knowledge retrieval with ChromaDB and local LLMs
 - 🎓 **Break Through Tech AI/ML Fellow**, with Cornell University's Machine Learning Foundations certificate
 - ⚖️ **Head of Judging @ HackRU**, where I built the judging platform used for 100+ projects and 25+ judges
