@@ -11,6 +11,7 @@
 
 I'm a Computer Science and Data Science student at Rutgers Honors College (minors in Math and Statistics) working toward a career as a **Machine Learning Engineer**. I build applied AI systems, especially **retrieval-augmented generation (RAG)** and **LLM** pipelines, and I care about making them work reliably for the people who use them.
 
+- 🏆 **NASA Space Apps NYC 2026:** won **Best Code & Technology** and **Best Use of Gemini** for [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026), a lunar south-pole landing site navigator
 - 🔭 **Now:** AI Studio Fellow with **Zayi**, building an agentic RAG system for R&D knowledge retrieval with ChromaDB and local LLMs
 - 🎓 **Break Through Tech AI/ML Fellow**, with Cornell University's Machine Learning Foundations certificate
 - ⚖️ **Head of Judging @ HackRU**, where I built the judging platform used for 100+ projects and 25+ judges
@@ -20,6 +21,7 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🏆 [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026) · [live](https://tranquility-base.rohansh2017.workers.dev) | **NASA Space Apps NYC 2026: Best Code & Technology + Best Use of Gemini.** Lunar south-pole landing site navigator: stand on real LRO LOLA terrain in 3D, see the Sun and Earth at their true positions, and find alternative sites and dates when a launch slips | TypeScript, React, three.js, Python, Gemini, Cloudflare Workers |
 | [Zayi AI Studio: Agentic Knowledge System](https://github.com/BrantisIsHacking/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d) | Agentic RAG system for internal R&D knowledge retrieval | Python, ChromaDB, LLMs |
 | [debate-mate](https://github.com/BrantisIsHacking/debate-mate) | AI debate coach that detects 10+ logical fallacies with 85%+ accuracy | Next.js, TypeScript, Gemini, Snowflake |
 | [airbnb-price-classification](https://github.com/BrantisIsHacking/airbnb-price-classification) | Predicts high-priced NYC Airbnb listings, comparing logistic regression with a neural network | Python, scikit-learn, TensorFlow |
