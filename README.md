@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Space+Apps+NYC+Winner+🏆" alt="Hi, I'm Brayden Uglione 👋" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=F0F6FC&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=1F2328&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!" alt="Hi, I'm Brayden Uglione 👋" />
+  </picture>
 </h1>
 <h3 align="center">Aspiring Machine Learning Engineer | CS + Data Science @ Rutgers Honors College</h3>
 
