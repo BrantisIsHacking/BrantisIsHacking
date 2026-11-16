@@ -1,10 +1,10 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=F0F6FC&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Aspiring+ML+Engineer+🤖;CS+%2B+Data+Science+@+Rutgers+🎓;I+build+RAG+%2B+LLM+systems+🧠;Open+to+Summer+2027+internships+🎯" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=1F2328&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Aspiring+ML+Engineer+🤖;CS+%2B+Data+Science+@+Rutgers+🎓;I+build+RAG+%2B+LLM+systems+🧠;Open+to+Summer+2027+internships+🎯" alt="Hi, I'm Brayden Uglione 👋" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=F0F6FC&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;Basketball+fan+%26+stats+nerd+🏀;Open+to+Summer+2027+internships+🎯" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=1F2328&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;Basketball+fan+%26+stats+nerd+🏀;Open+to+Summer+2027+internships+🎯" alt="Hi, I'm Brayden Uglione 👋" />
   </picture>
 </h1>
-<h3 align="center">Aspiring Machine Learning Engineer | CS + Data Science @ Rutgers Honors College</h3>
+<h3 align="center">Aspiring Software Engineer · Data Scientist · ML Engineer | CS + Data Science @ Rutgers Honors College</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brayden-uglione/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brayden--uglione-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,13 +14,13 @@
 
 ## 🤖 About Me
 
-I'm a Computer Science and Data Science student at Rutgers Honors College (minors in Math and Statistics) working toward a career as a **Machine Learning Engineer**. I build applied AI systems, especially **retrieval-augmented generation (RAG)** and **LLM** pipelines, and I care about making them work reliably for the people who use them.
+I'm a Computer Science and Data Science student at Rutgers Honors College (minors in Math and Statistics) working toward a career in **software engineering**, **data science** or **machine learning**. I build applied AI systems, especially **retrieval-augmented generation (RAG)** and **LLM** pipelines, and I care about making them work reliably for the people who use them.
 
 - 🏆 **NASA Space Apps NYC 2026:** won **Best Use of Code & Technology** and **Best Use of Gemini** for [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026), a lunar south-pole landing site navigator
 - 🔭 **Now:** AI Studio Fellow with **Zayi**, building an agentic RAG system for R&D knowledge retrieval with ChromaDB and local LLMs
 - 🎓 **Break Through Tech AI/ML Fellow**, with Cornell University's Machine Learning Foundations certificate
 - ⚖️ **Head of Judging @ HackRU**, where I built the judging platform used for 100+ projects and 25+ judges
-- 🎯 **Looking for:** Summer 2027 Machine Learning / Software Engineering internships
+- 🎯 **Looking for:** Summer 2027 Software Engineering / Data Science / Machine Learning internships
 
 ## 🚀 Featured Projects
 
