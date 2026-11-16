@@ -26,7 +26,7 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 | [debate-mate](https://github.com/BrantisIsHacking/debate-mate) | AI debate coach that detects 10+ logical fallacies with 85%+ accuracy | Next.js, TypeScript, Gemini, Snowflake |
 | [airbnb-price-classification](https://github.com/BrantisIsHacking/airbnb-price-classification) | Predicts high-priced NYC Airbnb listings, comparing logistic regression with a neural network | Python, scikit-learn, TensorFlow |
 | [vestibular-problems-detector](https://github.com/BrantisIsHacking/vestibular-problems-detector) | ML prototype that detects vestibular problems in concussion patients from eye-tracking data | Python, Jupyter |
-| [hackru-judging-platform](https://github.com/BrantisIsHacking/hackru-judging-platform) | Judging platform with automated judge assignment, live scoring and leaderboards | Next.js, TypeScript, Prisma |
+| [DreamsComeTrue](https://github.com/Ananya-Jha-code/DreamsComeTrue) · [live](https://dreamscometrue.work/) | **HackPrinceton Spring 2026.** Speak a story and watch it become an illustrated picture book: speech-to-text, LLM page structuring and per-page image generation, streamed to the UI as pages finish | React, TypeScript, Express, FastAPI, Gemini, ElevenLabs, K2 Think |
 
 ## 🛠️ Languages & Tools
 
