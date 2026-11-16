@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Brayden Uglione 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Space+Apps+NYC+Winner+🏆" alt="Hi, I'm Brayden Uglione 👋" />
+</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | CS + Data Science @ Rutgers Honors College</h3>
 
 <p align="center">
