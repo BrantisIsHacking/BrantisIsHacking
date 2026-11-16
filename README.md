@@ -1,7 +1,7 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=F0F6FC&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;Basketball+fan+%26+stats+nerd+🏀;Open+to+Summer+2027+internships+🎯" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=1F2328&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;Basketball+fan+%26+stats+nerd+🏀;Open+to+Summer+2027+internships+🎯" alt="Hi, I'm Brayden Uglione 👋" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=F0F6FC&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;I+love+building+things+🛠️;Open+to+Summer+2027+internships+🎯" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=32&center=true&vCenter=true&width=600&height=50&color=1F2328&duration=4000&lines=Hi+there!+👋;I'm+Brayden+Uglione!;Future+SWE+%2F+DS+%2F+ML+Engineer+💻;CS+%2B+Data+Science+@+Rutgers+🎓;I+love+building+things+🛠️;Open+to+Summer+2027+internships+🎯" alt="Hi, I'm Brayden Uglione 👋" />
   </picture>
 </h1>
 <h3 align="center">Aspiring Software Engineer · Data Scientist · ML Engineer | CS + Data Science @ Rutgers Honors College</h3>
