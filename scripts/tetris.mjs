@@ -236,7 +236,6 @@ function render({ total, weeks }, pieces, theme, login) {
     `<text x="${bx + boardW + 4}" y="${PAD + 10}" ${font} text-anchor="end" fill="${c.dim}">SCORE <tspan fill="${c.text}">${String(total).padStart(6, "0")}</tspan></text>`
   );
 
-  css.push(`@media (prefers-reduced-motion:reduce){*{animation:none!important}.f0,.f1,.f2,.f3,.f4,.f5,.f6{opacity:0}}`);
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
 <title>${esc(login)}'s contributions as Tetris</title>
