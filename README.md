@@ -28,7 +28,7 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 | Project | What it does | Stack |
 |---|---|---|
 | 🏆 [Tranquility Base](https://github.com/rohansh2017/Space-Apps-2026) · [live](https://tranquility-base.rohansh2017.workers.dev) | **NASA Space Apps NYC 2026: Best Use of Code & Technology + Best Use of Gemini.** Lunar south-pole landing site navigator: stand on real LRO LOLA terrain in 3D, see the Sun and Earth at their true positions, and find alternative sites and dates when a launch slips | TypeScript, React, three.js, Python, Gemini, Cloudflare Workers |
-| [Zayi AI Studio: Agentic Knowledge System](https://github.com/BrantisIsHacking/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d) | Agentic RAG system for internal R&D knowledge retrieval | Python, ChromaDB, LLMs |
+| [Zayi AI Studio: Agentic Knowledge System]([https://github.com/BrantisIsHacking/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d](https://github.com/Break-Through-Tech/Zayi-1B-agentic-internal-knowledge-system-for-r-and-d)) | Agentic RAG system for internal R&D knowledge retrieval | Python, ChromaDB, LLMs |
 | [debate-mate](https://github.com/BrantisIsHacking/debate-mate) | AI debate coach that detects 10+ logical fallacies with 85%+ accuracy | Next.js, TypeScript, Gemini, Snowflake |
 | [airbnb-price-classification](https://github.com/BrantisIsHacking/airbnb-price-classification) | Predicts high-priced NYC Airbnb listings, comparing logistic regression with a neural network | Python, scikit-learn, TensorFlow |
 | [vestibular-problems-detector](https://github.com/BrantisIsHacking/vestibular-problems-detector) | ML prototype that detects vestibular problems in concussion patients from eye-tracking data | Python, Jupyter |
