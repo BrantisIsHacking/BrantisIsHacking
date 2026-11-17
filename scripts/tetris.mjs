@@ -6,7 +6,8 @@
 //
 // Usage:
 //   GITHUB_TOKEN=... node scripts/tetris.mjs --user <login> [--out dist]
-//   node scripts/tetris.mjs --user <login> --mock     (fake data, no token needed)
+//   node scripts/tetris.mjs --user <login>            (no token: reads the public contributions page)
+//   node scripts/tetris.mjs --user <login> --mock     (fake data)
 //
 // Requires Node 18+ (built-in fetch). No dependencies.
 
@@ -37,9 +38,28 @@ const HEADER = 30;
 // ---------- data ----------
 const LEVELS = { NONE: 0, FIRST_QUARTILE: 1, SECOND_QUARTILE: 2, THIRD_QUARTILE: 3, FOURTH_QUARTILE: 4 };
 
+// No-token fallback: read the public contributions page GitHub shows on a profile.
+async function scrapeCalendar(login) {
+  const res = await fetch(`https://github.com/users/${encodeURIComponent(login)}/contributions`, {
+    headers: { "User-Agent": "tetris-contribution-graph" },
+  });
+  if (!res.ok) throw new Error(`Could not load contributions page (HTTP ${res.status})`);
+  const html = await res.text();
+  const weeks = [];
+  const re = /id="contribution-day-component-(\d)-(\d+)"[^>]*data-level="(\d)"/g;
+  for (let m; (m = re.exec(html)); ) {
+    const [, day, week, level] = m.map(Number);
+    weeks[week] ??= Array(7).fill(0);
+    weeks[week][day] = level;
+  }
+  if (!weeks.length) throw new Error("No contribution cells found on the page");
+  const total = Number((html.match(/([\d,]+)\s+contributions?\s+in the last year/) ?? [, "0"])[1].replace(/,/g, ""));
+  return { total, weeks: Array.from(weeks, (w) => w ?? Array(7).fill(0)) };
+}
+
 async function fetchCalendar(login) {
   const token = process.env.GITHUB_TOKEN;
-  if (!token) throw new Error("GITHUB_TOKEN is not set (or pass --mock)");
+  if (!token) return scrapeCalendar(login);
   const query = `query($login: String!) {
     user(login: $login) {
       contributionsCollection {
