@@ -20,6 +20,7 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 - 🔭 **Now:** AI Studio Fellow with **Zayi**, building an agentic RAG system for R&D knowledge retrieval with ChromaDB and local LLMs
 - 🎓 **Break Through Tech AI/ML Fellow**, with Cornell University's Machine Learning Foundations certificate
 - ⚖️ **Head of Judging @ HackRU**, where I built the judging platform used for 100+ projects and 25+ judges
+- 🧑‍🏫 **Director of Education & Co-Director of Mentorship @ USACS**, Rutgers' largest CS organization (350+ members), where I launched the Speaker Talks series and rebuilt the peer mentorship program, matching 40+ underclassmen with mentors
 - 🎯 **Looking for:** Summer 2027 Software Engineering / Data Science / Machine Learning internships
 
 ## 🚀 Featured Projects
