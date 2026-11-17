@@ -44,3 +44,9 @@ I'm a Computer Science and Data Science student at Rutgers Honors College (minor
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=BrantisIsHacking&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrantisIsHacking/BrantisIsHacking/output/tetris-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrantisIsHacking/BrantisIsHacking/output/tetris-contribution-graph.svg">
+  <img alt="My contribution graph playing Tetris" src="https://raw.githubusercontent.com/BrantisIsHacking/BrantisIsHacking/output/tetris-contribution-graph.svg" width="100%">
+</picture>
